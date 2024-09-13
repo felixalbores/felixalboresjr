@@ -1,0 +1,15 @@
+Hello, Dev. My name is Felix Albores. I am a self-taught developer. Ever since I was a kid. I always wanted to be a programmer since I spent much of my youth in front of a computer playing video games. However, as I got older, my curiosity kicked in, and I started to wonder how the internet works and how I might create beautiful websites or games. For this reason, I surfed the internet and came across this YouTube channel called Code.org. It's a community of developers coming together to build projects and make the world a better place using technology. 
+
+
+When I clicked on the first video. A video that runs for 5 seconds. It alters how I think. There is a quote: According to Steve Jobs, "Everybody in this country should learn how to program a computer, because it teaches you how to think," and the next clip is Bill Gates. I was fascinated, intrigued, excited, motivated, and all of the positive emotions were present at those times, and I wanted to be that person someday. 
+
+Throughout senior high and college. I studied BSIT, Bachelor Science of Information Technology, and completed my second year of college as a result of my country's pandemic, which affected our life, including my father's job loss. We do not have a source of income. We cannot survive. We have no food to eat. So I drop out of school and apply to work as a CCTV operator. Thankfully, I passed. I have been working as a Customer Service Representative for four months and have one year of experience as a CCTV operator.
+
+
+
+
+Until, I asked myself is this what I wanted to do for the rest of my life. I try to find my ikigai(japanese word means purpose). I keep seeking I cameback to my childhood dream and with the blink of seconds of my brain. I found my ikigai(purpose of living). I went to the w3 schools website, scan my old notes and books and started to go back what I started. After work and after work. I teach myself again how to code, create routine, understand others code, read materials and started building projects. Every day and night, I practice. It's very painful and stressfull, but I  enjoy the pain. I love it. I continue because this is I am passionate about. I finished the course of HTML, CSS and JavaScript in w3 schools. I can build projects and completely prepared to work as a Front End Developer.
+
+
+
+So, I went to the internet and went to w3 schools website and scan my old notes and books where I left when I was in college and started to go back what I started. Every day and night. After work, after work. I teach myself how to code and reading books and materials. Practicing a lot, building projects. It very stressful and wanted to give up, but I love the process, and I enjoy the pain. Despite my ideas won't work the code. I continue, still continue and now I would say that I grasp the understand  HTML, CSS and JavaScript. I understand others code and I can build projects. I love it. I hope that I meet  a community  that very passionate about coding and learn from the best. Hoping that I can join and land my dream job.
